@@ -302,6 +302,11 @@ svg {
   vertical-align: middle;
 }
 
+img:hover{
+   height: 80%;
+   width: 80%;
+  }
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
